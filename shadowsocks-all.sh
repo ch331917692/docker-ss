@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#! /usr/bin/env bash
 #
 # Auto install Shadowsocks Server (all version)
 #
